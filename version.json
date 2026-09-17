@@ -1,0 +1,17 @@
+{
+  "signatureSchemaVersion": 1,
+  "keyId": "sq-update-2026-09",
+  "signatureAlgorithm": "RSA-PSS-SHA256",
+  "signedPayload": "eyJwYXlsb2FkU2NoZW1hVmVyc2lvbiI6MSwicHJvZHVjdElkIjoiU1EiLCJjaGFubmVsIjoic3RhYmxlIiwibGF0ZXN0VmVyc2lvbiI6IjEuMC4xIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWhtZGFzYjAtY215ay9TUS1VUERBVEVTL3JlbGVhc2VzL2Rvd25sb2FkL3YxLjAuMS9zcV92MS4wLjEuemlwIiwiZmlsZU5hbWUiOiJzcV92MS4wLjEuemlwIiwic2hhMjU2IjoiMUNGRTBCMURERDc3OUEwMzFGNTFEM0Q3RDNCNkUyNTFFNjBFQjg3RDRGOUZEOThFNkNCMTlGMjA1RUFEM0RENiIsImZpbGVTaXplQnl0ZXMiOjk0NjgyNDY0LCJwdWJsaXNoZWRBdFV0YyI6IjIwMjYtMDktMTdUMTU6NDA6MzVaIiwibm90ZXMiOiJTUSBwcm9kdWN0aW9uIHJlbGVhc2UuIiwibWluaW11bVVwZGF0ZXJWZXJzaW9uIjoiMS4wLjAifQ==",
+  "signature": "zIw9Eh8m71787aA\u002BwcT2ChY2hqdImHfXkuB9uFZqAFMFRqjZwBueZu5xGOMInuOuES64fypqsdm/IZ/YCoXHWYKwpokD6M7mundDdulJ\u002BLyRfDes20izAnTROzD14FrrL7vkZM1RSO5uWzckhtPXK81LN5xEa/2x9Yu0k3XMv8ZrhJPIY\u002BHf5ns\u002BWYxD2NRHbkJH/iTw5TKgze28EsZ4sBDGCjgn1XgnmYlVU7zH5bQz\u002Bz1ip6NGyUaSzh11dBFLZaWeuFgCKCZPkicF7xWrceh1JjtcYi45ahKQ2XAzvjEXlQJSaawY5CAHcxpa9WO29SEX1BYWL4jardTt6K1\u002B1e8JXamyrIyGk1tkLpRXd\u002BZIdX\u002BcaxqbXrdmlS8EiDubO6sbz8aoo9MAXN\u002BQT/wrp2heryoh5OxSGPjYlqaXpFlbC9gKeI/7hnu9NXPquOdnPjRUmNrQnMZ17gFePeJD2DDzF1rJyyWVsC/ZYEBJCY5vKKbLnKfUSbESheBl3Oum",
+  "productId": "SQ",
+  "channel": "stable",
+  "latestVersion": "1.0.1",
+  "downloadUrl": "https://github.com/mhmdasb0-cmyk/SQ-UPDATES/releases/download/v1.0.1/sq_v1.0.1.zip",
+  "fileName": "sq_v1.0.1.zip",
+  "sha256": "1CFE0B1DDD779A031F51D3D7D3B6E251E60EB87D4F9FD98E6CB19F205EAD3DD6",
+  "fileSizeBytes": 94682464,
+  "publishedAtUtc": "2026-09-17T15:40:35Z",
+  "notes": "SQ production release.",
+  "minimumUpdaterVersion": "1.0.0"
+}
